@@ -1,3 +1,7 @@
+I am building my own 3D printer with a Einsy Rambo and many features of the Prusa i3 MK3
+
+---------------------------------
+
 # Table of contents
 
 <!--ts-->
